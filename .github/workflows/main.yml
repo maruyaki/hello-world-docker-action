@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: maruyaki/hello-world-docker-action/sub@v1.2
+        uses: maruyaki/hello-world-docker-action/sub@v1.3
         with:
           who-to-greet: 'Mona the Octocat'
       - name: Get the output time
