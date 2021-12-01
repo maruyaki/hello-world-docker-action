@@ -1,4 +1,4 @@
-# Hello world docker action
+# Hello world docker action ver.2
 
 このアクションは"Hello World"もしくは"Hello" + ログに挨拶する人物名を出力します。
 
